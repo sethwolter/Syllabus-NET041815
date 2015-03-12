@@ -5,7 +5,7 @@ Syllabus, schedule, and project assignments for the .NET cohort beginning April 
 ##Weekly Schedule
 
 
-###Week 01: Microsoft Technology Landscape and Basic Programming Principles
+###Week 1: Microsoft Technology Landscape and Basic Programming Principles
   + Historical Overview and Future Directions
   + Client Operating System
   + Server Operating System
@@ -18,7 +18,7 @@ PROJECT 1: Basic problem set, setting up GitHub repositories, debug an existing 
 
 ------------
 
-###Week 02: Introduction to Programming with Visual Studios
+###Week 2: Introduction to Programming with Visual Studios
 + Tour of Visual Studio
 + Install Visual Studio Community Edition
 + Intro to Console Application
@@ -35,7 +35,7 @@ PROJECT 2: Project Euler problem set, including Poker Hands and Benford’s Law 
 
 -----------
 
-###Week 03: Intermediate Programming Principles
+###Week 3: Intermediate Programming Principles
 + Classes and Objects
 + Namespaces
 + Polymorphism
@@ -46,7 +46,7 @@ PROJECT 3: Create a text-based online store application that includes abstractio
 
 ------------
 
-###Week 04: Advanced Programming Principles and Unit Testing
+###Week 4: Advanced Programming Principles and Unit Testing
 + Unit Testing
 + Collections
 + Events and Delegates
@@ -59,7 +59,7 @@ PROJECT 4: Create a text-based poker application and a test suite to test user s
 
 -------------
 
-###Week 05: Client Side Programming
+###Week 5: Client Side Programming
 + Introduction to WinForms
 + Introduction to WPF
 + Introduction to WinRT
@@ -74,7 +74,7 @@ PROJECT 5: Create a native desktop application to host a collection of card game
 
 ---------------
 
-###Week 06: Web Technologies
+###Week 6: Web Technologies
 + Intro to HTML/CSS
 + Basic web design principles
 + ASP.net
