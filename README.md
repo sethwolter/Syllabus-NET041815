@@ -14,6 +14,7 @@ Syllabus, schedule, and project assignments for the .NET cohort beginning April 
   + Install Visual Studio Community Edition
   + Version Control with git, GitHub, and Team Foundation Server
   + Data types and variables in C#
+  + Control-flow statements
 
 PROJECT 1: Basic problem set, set up GitHub repositories, debug an existing C# project through git diff and git log.
 
@@ -23,7 +24,6 @@ PROJECT 1: Basic problem set, set up GitHub repositories, debug an existing C# p
 + Intro to Console Applications
 + Debugging through Visual Studios
 + Basic Application builds/deployment
-+ Control statements
 + Logic statements
 + Iterators
 + Arrays
