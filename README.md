@@ -5,23 +5,22 @@ Syllabus, schedule, and project assignments for the .NET cohort beginning April 
 ##Weekly Schedule
 
 
-###Week 1: Microsoft Technology Landscape and Basic Programming Principles
-  + Historical Overview and Future Directions
-  + Client Operating System
-  + Server Operating System
-  + Overview of phones and devices
-  + Visual Studio and Visual Studios Online
+###Week 1: Microsoft Technology Landscape, Soft Skills intro, and Basic Programming Principles
+  + Historical Overview and Future Directions of Microsoft Tools
+  + Thinking like a programmer
+  + Basics of code presentation
+  + Intro to Agile developement principles (scrums, sprints, and builds)
+  + Tour of Visual Studio
+  + Install Visual Studio Community Edition
   + Version Control with git, GitHub, and Team Foundation Server
   + Data types and variables in C#
 
-PROJECT 1: Basic problem set, setting up GitHub repositories, debug an existing C# project through git diff and git log.
+PROJECT 1: Basic problem set, set up GitHub repositories, debug an existing C# project through git diff and git log.
 
 ------------
 
-###Week 2: Introduction to Programming with Visual Studios
-+ Tour of Visual Studio
-+ Install Visual Studio Community Edition
-+ Intro to Console Application
+###Week 2: Introduction to Programming with C#
++ Intro to Console Applications
 + Debugging through Visual Studios
 + Basic Application builds/deployment
 + Control statements
@@ -31,7 +30,7 @@ PROJECT 1: Basic problem set, setting up GitHub repositories, debug an existing 
 + Methods
 + Exceptions
 
-PROJECT 2: Project Euler problem set, including Poker Hands and Benford’s Law problems.
+PROJECT 2: Project Euler problem set.
 
 -----------
 
@@ -42,7 +41,7 @@ PROJECT 2: Project Euler problem set, including Poker Hands and Benford’s Law 
 + Inheritance 
 + Files and I/O
 
-PROJECT 3: Create a text-based online store application that includes abstraction.
+PROJECT 3: Create a text-based store application that includes abstraction.
 
 ------------
 
@@ -59,7 +58,7 @@ PROJECT 4: Create a text-based poker application and a test suite to test user s
 
 -------------
 
-###Week 5: Client Side Programming
+###Week 5: Client-Side Programming
 + Introduction to WinForms
 + Introduction to WPF
 + Introduction to WinRT
@@ -124,7 +123,7 @@ PROJECT 9: Add single sign-on login page to card games website, plus security fo
 
 ###Week 10: Agile, Review, Teamwork, and Soft Skills
 + review work through first 10 weeks
-+ Agile development in a team development
++ Agile development in a team environment
 + Scrums and Sprints through Visual Studios Online
 + Presentation skills
 + Interview and Resume prep
