@@ -20,7 +20,7 @@ PROJECT 1: Basic problem set, set up GitHub repositories, debug an existing C# p
 
 ------------
 
-###Week 2: Introduction to Programming with C\#
+###Week 2: Introduction to Programming with C-sharp 
 + Intro to Console Applications
 + Debugging through Visual Studios
 + Basic Application builds/deployment
